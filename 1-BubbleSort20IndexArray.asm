@@ -1,4 +1,3 @@
-; m.saeed khatami
 org 100h 
 .data                                                                         ; my variables section
 
