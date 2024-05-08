@@ -1,6 +1,9 @@
 # uni-asm-com
 
-my university homework at assambly
+- Bubble Sort 20 Indexed Array
+- Get 0 In 100 Indexed Array
+- Reverse a 20 Indexed Array
+- Sum And Avrage Of 20 Indexed Array
 
 ## **NOTE**
 
